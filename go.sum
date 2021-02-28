@@ -17,6 +17,8 @@ github.com/DATA-DOG/go-sqlmock v1.5.0 h1:Shsta01QNfFxHCfpW6YH2STWB0MudeXXEWMr20O
 github.com/DATA-DOG/go-sqlmock v1.5.0/go.mod h1:f/Ixk793poVmq4qj/V1dPUg2JEAKC73Q5eFN3EC/SaM=
 github.com/MaulIbra/encrypt_module v1.0.0 h1:9gKn3wZC9RiG02SBAud16sc5LCQ8BDUaHgfhVD/lGlM=
 github.com/MaulIbra/encrypt_module v1.0.0/go.mod h1:WsKtVeFoMqhS/nv6/Bn3uEGc1b0Ky+WWphRwCJE/RcM=
+github.com/MaulIbra/go_module_jwtToken v1.0.1 h1:29zOx3RaJuFzb4ijFfhDlUB3f/Hx5DE0BFKmmmqjL1E=
+github.com/MaulIbra/go_module_jwtToken v1.0.1/go.mod h1:Hxo4ZF15rL+oPwn9e5fzJJ8Kv6BW4MnNKl0OEmybtpg=
 github.com/MaulIbra/go_module_jwtToken v1.1.2 h1:sWkZGOsQknxwDxdkGjwxpVsOkRQMwlrbX2VI7RATHgA=
 github.com/MaulIbra/go_module_jwtToken v1.1.2/go.mod h1:Hxo4ZF15rL+oPwn9e5fzJJ8Kv6BW4MnNKl0OEmybtpg=
 github.com/MaulIbra/logs_module v1.0.0 h1:Cc+uqYsKFK6wSrs6SlhNOI/uQX7yXXowWH9wgXOMWZY=
